@@ -3,8 +3,6 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahraramanayshilla" alt="zahraramanayshilla" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://zra.netlify.app/](https://zra.netlify.app/)
 
 - 📫 How to reach me **ramanayshilla@gmail.com**
