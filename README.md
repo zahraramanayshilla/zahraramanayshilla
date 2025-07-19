@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=0:ff7e5f,50:ff00ff,100:8e2de2&height=100&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Zahra Ramanayshilla</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
