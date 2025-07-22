@@ -97,6 +97,3 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=zahraramanayshilla&theme=github-dark" 
        alt="zahraramanayshilla" />
 </p>
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
